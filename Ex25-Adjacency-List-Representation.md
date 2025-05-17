@@ -1,5 +1,5 @@
-# Ex25 Adjacency List Representation
-## DATE:
+# EX 5E Adjacency List Representation
+## DATE:03/05/2025
 ## AIM:
 To write a C program to represent the given graph using the adjacency list.
 
@@ -61,7 +61,7 @@ int main(void)
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/36c3bb99-6a63-449e-9ab7-ff85c5774791)
+![image](https://github.com/user-attachments/assets/1cf60013-4b24-454e-a674-56704e72d3ac)
 
 
 ## Result:
