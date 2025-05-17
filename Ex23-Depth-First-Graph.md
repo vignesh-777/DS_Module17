@@ -1,18 +1,16 @@
-# Ex23 Depth First Graph
-## DATE:
+# EX 5C Depth First Graph
+## DATE:26/04/2025
 ## AIM:
 To compose the code for the function createNode to traverse the graph below in the depth first fashion.
 
 ![image](https://github.com/user-attachments/assets/63552824-d0a3-49c6-a473-6db27d1f03e4)
 
 ## Algorithm
-
-
 1. **Allocate Memory**: Use `malloc` to allocate memory for a new node of type `struct node`.<br/>
 2. **Initialize Vertex**: Set the `vertex` field of the new node to the value `v`.<br/>
 3. **Initialize Next Pointer**: Set the `next` pointer of the new node to `NULL`.<br/>
 4. **Return Node**: Return the pointer to the newly created node.<br/>
-5. **End Function**: Complete the function execution.  <br/>
+5. **End Function**: Complete the function execution.  <br/> 
 
 ## Program:
 ```
@@ -31,7 +29,7 @@ struct node* createNode(int v) {
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/4055623f-4e9c-4730-bbf2-b70ab63e58a4)
+![image](https://github.com/user-attachments/assets/5896c580-b2c3-4aeb-8a4c-57be4a0d2c8b)
 
 
 
