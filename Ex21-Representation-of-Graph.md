@@ -18,8 +18,8 @@ To write a C program to display the adjacency matrix of the given graph by suppl
 
 Program to display the adjacency matrix of the given graph.
 
-Developed by: NITHIYANERANJAN S
-RegisterNumber:  212223040136
+Developed by: VIGNESH R
+RegisterNumber:  212223240177
 
  
 /*#include<stdio.h> 
